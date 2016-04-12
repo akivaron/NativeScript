@@ -19,7 +19,6 @@ package/
 !fetch/**/*.*
 !apps/TelerikNEXT/lib/**/*.*
 !build/**/*.*
-!.travis/**/*.*
 CrossPlatformModules.sln.ide/
 *.suo
 CrossPlatformModules.suo
